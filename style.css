@@ -1,0 +1,10 @@
+body {
+  
+	background-color:rgba(0, 61, 143, 1) !important;
+	border-bottom-width:0 !important;
+	border-bottom-style:solid !important;
+	box-shadow:none !important;
+	-moz-box-shadow:none !important;
+	-webkit-box-shadow:none !important;
+
+}
